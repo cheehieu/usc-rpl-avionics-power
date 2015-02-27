@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: lipo_board.PcbDoc   2/16/2012  3:45:54 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : lipo_board.TXT
+EIA File   : lipo_board.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        55mil (1.397mm)          Round          32               293.97 Inch (7466.76 mm)
+---------------------------------------------------------------------------
+Totals                                            32               293.97 Inch (7466.76 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

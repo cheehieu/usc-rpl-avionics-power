@@ -1,0 +1,46 @@
+Added Component: Designator=ARDUINO(5566-4)
+Added Component: Designator=Bat1(5566-4)
+Added Component: Designator=Bat2(5566-4)
+Added Component: Designator=Bat3(5566-4)
+Added Component: Designator=Bat4(5566-4)
+Added Component: Designator=BIGREDBEE(5566-4)
+Added Component: Designator=BYONICS(5566-4)
+Added Component: Designator=RAVEN(5566-4)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=S2(SPST-2)
+Added Component: Designator=S3(SPST-2)
+Added Component: Designator=S4(SPST-2)
+Added Pin To Net: NetName=BAT1+ Pin=ARDUINO-1
+Added Pin To Net: NetName=BAT1+ Pin=Bat1-1
+Added Pin To Net: NetName=BAT1+ Pin=S1-1
+Added Pin To Net: NetName=BAT1+ Pin=S1-2
+Added Net: Name=BAT1+
+Added Pin To Net: NetName=BAT1- Pin=ARDUINO-4
+Added Pin To Net: NetName=BAT1- Pin=Bat1-4
+Added Net: Name=BAT1-
+Added Pin To Net: NetName=BAT2+ Pin=Bat2-1
+Added Pin To Net: NetName=BAT2+ Pin=BIGREDBEE-1
+Added Pin To Net: NetName=BAT2+ Pin=S2-1
+Added Pin To Net: NetName=BAT2+ Pin=S2-2
+Added Net: Name=BAT2+
+Added Pin To Net: NetName=BAT2- Pin=Bat2-4
+Added Pin To Net: NetName=BAT2- Pin=BIGREDBEE-4
+Added Net: Name=BAT2-
+Added Pin To Net: NetName=BAT3+ Pin=Bat3-1
+Added Pin To Net: NetName=BAT3+ Pin=RAVEN-1
+Added Pin To Net: NetName=BAT3+ Pin=S3-1
+Added Pin To Net: NetName=BAT3+ Pin=S3-2
+Added Net: Name=BAT3+
+Added Pin To Net: NetName=BAT3- Pin=Bat3-4
+Added Pin To Net: NetName=BAT3- Pin=RAVEN-4
+Added Net: Name=BAT3-
+Added Pin To Net: NetName=BAT4+ Pin=Bat4-1
+Added Pin To Net: NetName=BAT4+ Pin=BYONICS-1
+Added Pin To Net: NetName=BAT4+ Pin=S4-1
+Added Pin To Net: NetName=BAT4+ Pin=S4-2
+Added Net: Name=BAT4+
+Added Pin To Net: NetName=BAT4- Pin=Bat4-4
+Added Pin To Net: NetName=BAT4- Pin=BYONICS-4
+Added Net: Name=BAT4-
+Added Class: Name=lipo_board
+Added Room: Name=lipo_board

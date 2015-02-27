@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=BAT1+ Pin=ARDUINO-1
+Removed Pin From Net: NetName=BAT2+ Pin=BIGREDBEE-1
+Removed Pin From Net: NetName=BAT4+ Pin=BYONICS-1
+Removed Pin From Net: NetName=BAT3+ Pin=RAVEN-1
+Removed Pin From Net: NetName=BAT1+ Pin=S1-2
+Removed Pin From Net: NetName=BAT2+ Pin=S2-2
+Removed Pin From Net: NetName=BAT3+ Pin=S3-2
+Removed Pin From Net: NetName=BAT4+ Pin=S4-2
+Added Pin To Net: NetName=NetARDUINO_1 Pin=ARDUINO-1
+Added Pin To Net: NetName=NetARDUINO_1 Pin=S1-2
+Added Net: Name=NetARDUINO_1
+Added Pin To Net: NetName=NetBIGREDBEE_1 Pin=BIGREDBEE-1
+Added Pin To Net: NetName=NetBIGREDBEE_1 Pin=S2-2
+Added Net: Name=NetBIGREDBEE_1
+Added Pin To Net: NetName=NetBYONICS_1 Pin=BYONICS-1
+Added Pin To Net: NetName=NetBYONICS_1 Pin=S4-2
+Added Net: Name=NetBYONICS_1
+Added Pin To Net: NetName=NetRAVEN_1 Pin=RAVEN-1
+Added Pin To Net: NetName=NetRAVEN_1 Pin=S3-2
+Added Net: Name=NetRAVEN_1

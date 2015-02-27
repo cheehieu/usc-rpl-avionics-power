@@ -1,0 +1,10 @@
+Arduino Avionics System:
+- Arduino Mega 2560 R3
+- microSD card (based on arduino shield)	//SPI pins
+- pressure transducer (MSP-300-500-P-3-N-1)	//analog pin
+- 1-axis accelerometer (ADXL190) 		//analog pin
+	- include an op-amp buffer to clean up signal
+- gyroscope (never worked!)			//analog pin
+- Xbee-Pro XSC					//serial pins
+- Garmin 18x-lvc GPS				//serial pins
+- Novatel GPS module ($1000)

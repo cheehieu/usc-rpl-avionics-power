@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=BAT1+ Pin=Bat2-1
+Added Pin To Net: NetName=BAT1- Pin=Bat2-4
+Added Pin To Net: NetName=BAT1+ Pin=Bat3-1
+Added Pin To Net: NetName=BAT1- Pin=Bat3-4
+Added Pin To Net: NetName=BAT1- Pin=BIGREDBEE-4
+Added Pin To Net: NetName=BAT1- Pin=RAVEN-4
+Added Pin To Net: NetName=BAT1+ Pin=S2-1
+Added Pin To Net: NetName=BAT1+ Pin=S3-1

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [lipo_board.PrjPCB]
+   Generated File[lipo_board.TXT]
+   Generated File[lipo_board.DRL]
+   Generated File[lipo_board.LDP]
+   Generated File[lipo_board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:45:54 AM On 2/16/2012
