@@ -3,7 +3,7 @@
 ## Overview
 The USC Rocket Propulsion Lab's "Traveler" rocket contained several embedded electronics for logging flight data and communicating with a ground station. When I first joined the team, each of these systems had their own battery packs (mostly AA's in series). With my battery experience working on lithium polymer packs for an AUV, I designed a central power distribution system to power the rocket's on-board avionics equipment.
 
-The hybrid-powered rocket was designed to reach outer space, with a mission apogee just beyond the 100km Karman line. This feat had never been achieved by a student team before, so we had to plan for things going awry. We usually operate in middle of the Balls, California desert and there is risk of the rocket landing several miles from the launch site. Therefore, the GPS tracking system must be reliable in the event of a multi-day recovery recon, especially if communications are lost.
+The hybrid-powered rocket was designed to reach outer space, with a mission apogee just beyond the 100km Karman line. This feat had never been achieved by a student team before, so we had to plan for things going awry. We usually operate in middle of the Mojave Desert in California and there is risk of the rocket landing several miles from the launch site. Therefore, the GPS tracking system must be reliable in the event of a multi-day recovery recon, especially if communications are lost.
 
 
 ## Hardware
